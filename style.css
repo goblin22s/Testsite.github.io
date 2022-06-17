@@ -136,18 +136,18 @@ a:hover{
     color:whitesmoke;
     font-family: 'Courier New', Courier, monospace;
 }
-@media(max-width: 700px){
+@media(max-width: 1000px){
     #abt a{
         font-size: small;
     }
 }
-@media(max-width:700px){
+@media(max-width:1000px){
     .txtcolor{
         font-size: small;
       
     }
 }
-@media(max-width:700px){
+@media(max-width:1000px){
     #image{
         display:contents;
     }
