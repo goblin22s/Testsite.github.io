@@ -170,10 +170,12 @@ a:hover{
     .fa-brands{
         font-size: small;
         margin-right: 7%;
+        position : relative;
     }
     .fa-solid{
         font-size: small;
         margin-right: 75%;
+        position: relative;
     }
         
 }
