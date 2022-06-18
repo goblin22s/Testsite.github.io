@@ -78,7 +78,7 @@ h2{
     background: 100%;
     text-align: center;
     padding: 15px;
-    font-size:medium;
+    font-size:small;
     
 
 }
@@ -166,7 +166,17 @@ a:hover{
 .fa-brands{
     font-size: 250%;
 }
-
+@media(max-width:700px){
+    .fa-brands{
+        font-size: small;
+        margin-right: 7%;
+    }
+    .fa-solid{
+        font-size: small;
+        margin-right: 80%;
+    }
+        
+}
 
 
 
