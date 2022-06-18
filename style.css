@@ -53,9 +53,10 @@ h2{
     /*background-color: rgb(80, 78, 78);*/
     font-size: 20px;
     padding: 10px;
-    background-position: right;
+    background-position: center;
     width: 225.800px;
     margin-left: 38.100%;
+    position: fixed;
     
 
 
